@@ -1,0 +1,2 @@
+06_functions (all assignments)
+https://colab.research.google.com/drive/1dspfAbYxxXMeH2eW8g27-8WeugjJkusu?usp=sharing

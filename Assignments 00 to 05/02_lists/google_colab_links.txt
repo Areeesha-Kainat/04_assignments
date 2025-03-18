@@ -1,0 +1,2 @@
+02_list (all assignments)
+https://colab.research.google.com/drive/1ZFmwuTpGPydXuhJlG6gddb0FQMULbnlB?usp=sharing
