@@ -1,0 +1,28 @@
+Project 1: Mad libs Python Project, provide Google Colab URL?
+https://colab.research.google.com/drive/1kbsvRW6pAl2kT2Ry-gJsoFaqvyIU7-TH?usp=sharing
+
+Project 2: Guess the Number Game Python Project (computer), provide Google Colab URL?
+https://colab.research.google.com/drive/1rsAHwgc3KWvdT9PQPJSIAWwea7mH7bNM?usp=sharing
+
+Project 3: Guess the Number Game Python Project (user), provide Google Colab URL?
+https://colab.research.google.com/drive/1bTCLzp2Qia9Hf8wU1mXskJOkYvXdhbPD?usp=sharing
+
+Project 4: Rock, paper, scissors Python Project, provide Google Colab URL?
+https://colab.research.google.com/drive/1K-yTCqHOLnbLDoVNaeNGrTggiV5abupv?usp=sharing
+
+Project 5: Hangman Python Project, provide Google Colab URL?
+https://colab.research.google.com/drive/1A4V22Tjss39H_K7w7rgJE9AdJhGPaAq9?usp=sharing
+
+Project 6: Countdown Timer Python Project, provide Google Colab URL?
+https://colab.research.google.com/drive/1epoSQ3FattxZCqoEmgyPYLMzyAjp6T8f?usp=sharing
+
+Project 7: Password Generator Python Project, provide Google Colab URL?
+https://colab.research.google.com/drive/16WIWndnIG9_wFA2Aq43twiIqGbldVjmh?usp=sharing
+
+Project 8: Create a Python Streamlit BMI Calculator Web App in Just 6 Minutes, provide Google Colab URL?
+https://colab.research.google.com/drive/19ufowpsNBgd-9kN9OJ-dxx8GlIUPc2MG?usp=sharing
+
+Project 9: Build a Python Website in 15 Minutes With Streamlit, provide Google Colab URL?
+https://colab.research.google.com/drive/1kZhHImq6XBXprYpLDG5_tc56wj8wjQJC?usp=sharing
+
+
