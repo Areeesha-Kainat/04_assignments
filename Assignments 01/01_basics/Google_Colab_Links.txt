@@ -1,0 +1,2 @@
+01_basics (all assignments)
+https://colab.research.google.com/drive/1pVAJELxBXEt8oFjVW8VIFQ44GLMJWkhn?usp=sharing
